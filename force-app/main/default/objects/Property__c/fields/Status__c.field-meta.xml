@@ -12,6 +12,11 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
+                <fullName>Test Status</fullName>
+                <default>true</default>
+                <label>Test Status</label>
+            </value>
+            <value>
                 <fullName>Contracted</fullName>
                 <default>false</default>
                 <label>Contracted</label>
